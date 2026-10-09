@@ -1,0 +1,41 @@
+{
+  "snapshot_date": "2026-10-09",
+  "files": [
+    {
+      "file": "original/SkeletonExtractor.h",
+      "sha256": "fd64333af682b9490f5c5754f837128d81dc34470340cfcdf7feca64cbc1ec3d",
+      "source": "SkeletonExtractor.h",
+      "modified": false
+    },
+    {
+      "file": "original/SkeletonExtractor.cpp",
+      "sha256": "7e1c0a7ba1128819aeb1d2f42a987f00e7600a21a6d90d9b848567972dde1a53",
+      "source": "SkeletonExtractor.cpp",
+      "modified": false
+    },
+    {
+      "file": "original/StraightSkeletonSegmenter.h",
+      "sha256": "4809cc807a53fdbd88e423d8c53e740a91b6528ddd12e7a08b76e4915f34c614",
+      "source": "StraightSkeletonSegmenter.h",
+      "modified": false
+    },
+    {
+      "file": "original/StraightSkeletonSegmenter.cpp",
+      "sha256": "f5377239842e529b081c1eb45f1b1932474c3f7f000367b77e22f7239fbebe86",
+      "source": "StraightSkeletonSegmenter.cpp",
+      "modified": false
+    },
+    {
+      "file": "original/CageInteractorStyle.h",
+      "sha256": "f77229f90d94be9a1a817df3d013165f60282210591ba1591f3c5712fc965d6a",
+      "source": "CageInteractorStyle.h",
+      "modified": false
+    },
+    {
+      "file": "original/CageInteractorStyle.cpp",
+      "sha256": "f57ccebcdb85a4ce030d852c108ab1533c35bf7a0317768c2a529cae66030e4e",
+      "source": "CageInteractorStyle.cpp",
+      "modified": false
+    }
+  ]
+}
